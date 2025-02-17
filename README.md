@@ -32,3 +32,8 @@ A **React app** where clicking a button cycles through different **car brands** 
 5. **Open in Browser**  
 - Go to http://localhost:3000
 - Click the buttons to cycle through car brands and NBA teams  
+
+## Screen Recording
+
+Here is how the site should look:  
+[Click to view the recording](public/ParentChildRecord.mp4)
